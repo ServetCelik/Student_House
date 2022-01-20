@@ -1,0 +1,241 @@
+C:\Users\Edvinas\Desktop\demoFront-End\demoFront-End\bin\Debug\demoFront-End.exe.config
+C:\Users\Edvinas\Desktop\demoFront-End\demoFront-End\bin\Debug\demoFront-End.exe
+C:\Users\Edvinas\Desktop\demoFront-End\demoFront-End\bin\Debug\demoFront-End.pdb
+C:\Users\Edvinas\Desktop\demoFront-End\demoFront-End\obj\Debug\demoFront-End.csproj.AssemblyReference.cache
+C:\Users\Edvinas\Desktop\demoFront-End\demoFront-End\obj\Debug\demoFront_End.Properties.Resources.resources
+C:\Users\Edvinas\Desktop\demoFront-End\demoFront-End\obj\Debug\demoFront-End.csproj.GenerateResource.cache
+C:\Users\Edvinas\Desktop\demoFront-End\demoFront-End\obj\Debug\demoFront-End.csproj.CoreCompileInputs.cache
+C:\Users\Edvinas\Desktop\demoFront-End\demoFront-End\obj\Debug\demoFront-End.exe
+C:\Users\Edvinas\Desktop\demoFront-End\demoFront-End\obj\Debug\demoFront-End.pdb
+C:\Users\Edvinas\Desktop\demoFront-End\demoFront-End\obj\Debug\demoFront_End.Form1.resources
+C:\Users\Edvinas\Desktop\demoFront-End\demoFront-End\obj\Debug\demoFront_End.EmployeeForm.resources
+C:\Users\Edvinas\Desktop\demoFront-End\demoFront-End\obj\Debug\demoFront_End.tbTenName.resources
+C:\Users\srvtc\Desktop\b\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe.config
+C:\Users\srvtc\Desktop\b\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe
+C:\Users\srvtc\Desktop\b\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.pdb
+C:\Users\srvtc\Desktop\b\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.AssemblyReference.cache
+C:\Users\srvtc\Desktop\b\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.EmployeeForm.resources
+C:\Users\srvtc\Desktop\b\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.Form1.resources
+C:\Users\srvtc\Desktop\b\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.Properties.Resources.resources
+C:\Users\srvtc\Desktop\b\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.tbTenName.resources
+C:\Users\srvtc\Desktop\b\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.GenerateResource.cache
+C:\Users\srvtc\Desktop\b\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.CoreCompileInputs.cache
+C:\Users\srvtc\Desktop\b\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.exe
+C:\Users\srvtc\Desktop\b\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.pdb
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main\student-house-manager-group-8-main\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe.config
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main\student-house-manager-group-8-main\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main\student-house-manager-group-8-main\Student house manager\demoFront-End\bin\Debug\demoFront-End.pdb
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main\student-house-manager-group-8-main\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.AssemblyReference.cache
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main\student-house-manager-group-8-main\Student house manager\demoFront-End\obj\Debug\demoFront_End.EmployeeForm.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main\student-house-manager-group-8-main\Student house manager\demoFront-End\obj\Debug\demoFront_End.Form1.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main\student-house-manager-group-8-main\Student house manager\demoFront-End\obj\Debug\demoFront_End.Properties.Resources.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main\student-house-manager-group-8-main\Student house manager\demoFront-End\obj\Debug\demoFront_End.tbTenName.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main\student-house-manager-group-8-main\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.GenerateResource.cache
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main\student-house-manager-group-8-main\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.CoreCompileInputs.cache
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main\student-house-manager-group-8-main\Student house manager\demoFront-End\obj\Debug\demoFront-End.exe
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main\student-house-manager-group-8-main\Student house manager\demoFront-End\obj\Debug\demoFront-End.pdb
+C:\Users\Edvinas\Desktop\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe.config
+C:\Users\Edvinas\Desktop\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe
+C:\Users\Edvinas\Desktop\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.pdb
+C:\Users\Edvinas\Desktop\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.AssemblyReference.cache
+C:\Users\Edvinas\Desktop\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.EmployeeForm.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.Form1.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.Properties.Resources.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.tbTenName.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.GenerateResource.cache
+C:\Users\Edvinas\Desktop\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.CoreCompileInputs.cache
+C:\Users\Edvinas\Desktop\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.exe
+C:\Users\Edvinas\Desktop\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.pdb
+C:\Users\Edvinas\Desktop\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe.config
+C:\Users\Edvinas\Desktop\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe
+C:\Users\Edvinas\Desktop\Student house manager\demoFront-End\bin\Debug\demoFront-End.pdb
+C:\Users\Edvinas\Desktop\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.AssemblyReference.cache
+C:\Users\Edvinas\Desktop\Student house manager\demoFront-End\obj\Debug\demoFront_End.EmployeeForm.resources
+C:\Users\Edvinas\Desktop\Student house manager\demoFront-End\obj\Debug\demoFront_End.Form1.resources
+C:\Users\Edvinas\Desktop\Student house manager\demoFront-End\obj\Debug\demoFront_End.Properties.Resources.resources
+C:\Users\Edvinas\Desktop\Student house manager\demoFront-End\obj\Debug\demoFront_End.tbTenName.resources
+C:\Users\Edvinas\Desktop\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.GenerateResource.cache
+C:\Users\Edvinas\Desktop\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.CoreCompileInputs.cache
+C:\Users\Edvinas\Desktop\Student house manager\demoFront-End\obj\Debug\demoFront-End.exe
+C:\Users\Edvinas\Desktop\Student house manager\demoFront-End\obj\Debug\demoFront-End.pdb
+C:\Users\Edvinas\Desktop\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.HouseholdAddEditForm.resources
+C:\Users\srvtc\Desktop\New folder (2)\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe.config
+C:\Users\srvtc\Desktop\New folder (2)\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe
+C:\Users\srvtc\Desktop\New folder (2)\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.pdb
+C:\Users\srvtc\Desktop\New folder (2)\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.AssemblyReference.cache
+C:\Users\srvtc\Desktop\New folder (2)\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.EmployeeForm.resources
+C:\Users\srvtc\Desktop\New folder (2)\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.Form1.resources
+C:\Users\srvtc\Desktop\New folder (2)\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.HouseholdAddEditForm.resources
+C:\Users\srvtc\Desktop\New folder (2)\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.Properties.Resources.resources
+C:\Users\srvtc\Desktop\New folder (2)\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.tbTenName.resources
+C:\Users\srvtc\Desktop\New folder (2)\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.GenerateResource.cache
+C:\Users\srvtc\Desktop\New folder (2)\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.CoreCompileInputs.cache
+C:\Users\srvtc\Desktop\New folder (2)\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.exe
+C:\Users\srvtc\Desktop\New folder (2)\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.pdb
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetnew\student-house-manager-group-8-servetnew\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe.config
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetnew\student-house-manager-group-8-servetnew\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetnew\student-house-manager-group-8-servetnew\Student house manager\demoFront-End\bin\Debug\demoFront-End.pdb
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetnew\student-house-manager-group-8-servetnew\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.AssemblyReference.cache
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetnew\student-house-manager-group-8-servetnew\Student house manager\demoFront-End\obj\Debug\demoFront_End.EmployeeForm.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetnew\student-house-manager-group-8-servetnew\Student house manager\demoFront-End\obj\Debug\demoFront_End.Form1.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetnew\student-house-manager-group-8-servetnew\Student house manager\demoFront-End\obj\Debug\demoFront_End.HouseholdAddEditForm.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetnew\student-house-manager-group-8-servetnew\Student house manager\demoFront-End\obj\Debug\demoFront_End.Properties.Resources.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetnew\student-house-manager-group-8-servetnew\Student house manager\demoFront-End\obj\Debug\demoFront_End.tbTenName.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetnew\student-house-manager-group-8-servetnew\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.GenerateResource.cache
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetnew\student-house-manager-group-8-servetnew\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.CoreCompileInputs.cache
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetnew\student-house-manager-group-8-servetnew\Student house manager\demoFront-End\obj\Debug\demoFront-End.exe
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetnew\student-house-manager-group-8-servetnew\Student house manager\demoFront-End\obj\Debug\demoFront-End.pdb
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-EdvinasUpdates\student-house-manager-group-8-EdvinasUpdates\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe.config
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-EdvinasUpdates\student-house-manager-group-8-EdvinasUpdates\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-EdvinasUpdates\student-house-manager-group-8-EdvinasUpdates\Student house manager\demoFront-End\bin\Debug\demoFront-End.pdb
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-EdvinasUpdates\student-house-manager-group-8-EdvinasUpdates\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.AssemblyReference.cache
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-EdvinasUpdates\student-house-manager-group-8-EdvinasUpdates\Student house manager\demoFront-End\obj\Debug\demoFront_End.EmployeeForm.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-EdvinasUpdates\student-house-manager-group-8-EdvinasUpdates\Student house manager\demoFront-End\obj\Debug\demoFront_End.Form1.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-EdvinasUpdates\student-house-manager-group-8-EdvinasUpdates\Student house manager\demoFront-End\obj\Debug\demoFront_End.HouseholdAddEditForm.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-EdvinasUpdates\student-house-manager-group-8-EdvinasUpdates\Student house manager\demoFront-End\obj\Debug\demoFront_End.Properties.Resources.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-EdvinasUpdates\student-house-manager-group-8-EdvinasUpdates\Student house manager\demoFront-End\obj\Debug\demoFront_End.tbTenName.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-EdvinasUpdates\student-house-manager-group-8-EdvinasUpdates\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.GenerateResource.cache
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-EdvinasUpdates\student-house-manager-group-8-EdvinasUpdates\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.CoreCompileInputs.cache
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-EdvinasUpdates\student-house-manager-group-8-EdvinasUpdates\Student house manager\demoFront-End\obj\Debug\demoFront-End.exe
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-EdvinasUpdates\student-house-manager-group-8-EdvinasUpdates\Student house manager\demoFront-End\obj\Debug\demoFront-End.pdb
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-Tenant (3)\student-house-manager-group-8-Tenant\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe.config
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-Tenant (3)\student-house-manager-group-8-Tenant\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-Tenant (3)\student-house-manager-group-8-Tenant\Student house manager\demoFront-End\bin\Debug\demoFront-End.pdb
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-Tenant (3)\student-house-manager-group-8-Tenant\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.AssemblyReference.cache
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-Tenant (3)\student-house-manager-group-8-Tenant\Student house manager\demoFront-End\obj\Debug\demoFront_End.EmployeeForm.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-Tenant (3)\student-house-manager-group-8-Tenant\Student house manager\demoFront-End\obj\Debug\demoFront_End.Form1.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-Tenant (3)\student-house-manager-group-8-Tenant\Student house manager\demoFront-End\obj\Debug\demoFront_End.HouseholdAddEditForm.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-Tenant (3)\student-house-manager-group-8-Tenant\Student house manager\demoFront-End\obj\Debug\demoFront_End.Properties.Resources.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-Tenant (3)\student-house-manager-group-8-Tenant\Student house manager\demoFront-End\obj\Debug\demoFront_End.TenantAddEditForm.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-Tenant (3)\student-house-manager-group-8-Tenant\Student house manager\demoFront-End\obj\Debug\demoFront_End.tbTenName.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-Tenant (3)\student-house-manager-group-8-Tenant\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.GenerateResource.cache
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-Tenant (3)\student-house-manager-group-8-Tenant\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.CoreCompileInputs.cache
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-Tenant (3)\student-house-manager-group-8-Tenant\Student house manager\demoFront-End\obj\Debug\demoFront-End.exe
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-Tenant (3)\student-house-manager-group-8-Tenant\Student house manager\demoFront-End\obj\Debug\demoFront-End.pdb
+C:\Users\Edvinas\Desktop\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.TenantAddEditForm.resources
+C:\Users\cynth\OneDrive\Fontys\Software Engineering\Student house project - Current\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe.config
+C:\Users\cynth\OneDrive\Fontys\Software Engineering\Student house project - Current\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe
+C:\Users\cynth\OneDrive\Fontys\Software Engineering\Student house project - Current\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.pdb
+C:\Users\cynth\OneDrive\Fontys\Software Engineering\Student house project - Current\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.AssemblyReference.cache
+C:\Users\cynth\OneDrive\Fontys\Software Engineering\Student house project - Current\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.EmployeeForm.resources
+C:\Users\cynth\OneDrive\Fontys\Software Engineering\Student house project - Current\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.Form1.resources
+C:\Users\cynth\OneDrive\Fontys\Software Engineering\Student house project - Current\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.HouseholdAddEditForm.resources
+C:\Users\cynth\OneDrive\Fontys\Software Engineering\Student house project - Current\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.Properties.Resources.resources
+C:\Users\cynth\OneDrive\Fontys\Software Engineering\Student house project - Current\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.TenantAddEditForm.resources
+C:\Users\cynth\OneDrive\Fontys\Software Engineering\Student house project - Current\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.tbTenName.resources
+C:\Users\cynth\OneDrive\Fontys\Software Engineering\Student house project - Current\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.GenerateResource.cache
+C:\Users\cynth\OneDrive\Fontys\Software Engineering\Student house project - Current\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.CoreCompileInputs.cache
+C:\Users\cynth\OneDrive\Fontys\Software Engineering\Student house project - Current\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.exe
+C:\Users\cynth\OneDrive\Fontys\Software Engineering\Student house project - Current\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.pdb
+C:\Users\srvtc\Desktop\try to merge\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe.config
+C:\Users\srvtc\Desktop\try to merge\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe
+C:\Users\srvtc\Desktop\try to merge\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.pdb
+C:\Users\srvtc\Desktop\try to merge\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.AssemblyReference.cache
+C:\Users\srvtc\Desktop\try to merge\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.EmployeeForm.resources
+C:\Users\srvtc\Desktop\try to merge\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.Form1.resources
+C:\Users\srvtc\Desktop\try to merge\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.HouseholdAddEditForm.resources
+C:\Users\srvtc\Desktop\try to merge\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.Properties.Resources.resources
+C:\Users\srvtc\Desktop\try to merge\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.TenantAddEditForm.resources
+C:\Users\srvtc\Desktop\try to merge\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.tbTenName.resources
+C:\Users\srvtc\Desktop\try to merge\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.GenerateResource.cache
+C:\Users\srvtc\Desktop\try to merge\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.CoreCompileInputs.cache
+C:\Users\srvtc\Desktop\try to merge\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.exe
+C:\Users\srvtc\Desktop\try to merge\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.pdb
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetMerge\student-house-manager-group-8-servetMerge\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe.config
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetMerge\student-house-manager-group-8-servetMerge\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetMerge\student-house-manager-group-8-servetMerge\Student house manager\demoFront-End\bin\Debug\demoFront-End.pdb
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetMerge\student-house-manager-group-8-servetMerge\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.AssemblyReference.cache
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetMerge\student-house-manager-group-8-servetMerge\Student house manager\demoFront-End\obj\Debug\demoFront_End.EmployeeForm.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetMerge\student-house-manager-group-8-servetMerge\Student house manager\demoFront-End\obj\Debug\demoFront_End.Form1.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetMerge\student-house-manager-group-8-servetMerge\Student house manager\demoFront-End\obj\Debug\demoFront_End.HouseholdAddEditForm.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetMerge\student-house-manager-group-8-servetMerge\Student house manager\demoFront-End\obj\Debug\demoFront_End.Properties.Resources.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetMerge\student-house-manager-group-8-servetMerge\Student house manager\demoFront-End\obj\Debug\demoFront_End.TenantAddEditForm.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetMerge\student-house-manager-group-8-servetMerge\Student house manager\demoFront-End\obj\Debug\demoFront_End.tbTenName.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetMerge\student-house-manager-group-8-servetMerge\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.GenerateResource.cache
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetMerge\student-house-manager-group-8-servetMerge\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.CoreCompileInputs.cache
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetMerge\student-house-manager-group-8-servetMerge\Student house manager\demoFront-End\obj\Debug\demoFront-End.exe
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-servetMerge\student-house-manager-group-8-servetMerge\Student house manager\demoFront-End\obj\Debug\demoFront-End.pdb
+C:\Users\srvtc\Desktop\asdfa\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe.config
+C:\Users\srvtc\Desktop\asdfa\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe
+C:\Users\srvtc\Desktop\asdfa\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.pdb
+C:\Users\srvtc\Desktop\asdfa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.AssemblyReference.cache
+C:\Users\srvtc\Desktop\asdfa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.EmployeeForm.resources
+C:\Users\srvtc\Desktop\asdfa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.Form1.resources
+C:\Users\srvtc\Desktop\asdfa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.HouseholdAddEditForm.resources
+C:\Users\srvtc\Desktop\asdfa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.Properties.Resources.resources
+C:\Users\srvtc\Desktop\asdfa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.TenantAddEditForm.resources
+C:\Users\srvtc\Desktop\asdfa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.tbTenName.resources
+C:\Users\srvtc\Desktop\asdfa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.GenerateResource.cache
+C:\Users\srvtc\Desktop\asdfa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.CoreCompileInputs.cache
+C:\Users\srvtc\Desktop\asdfa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.exe
+C:\Users\srvtc\Desktop\asdfa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.pdb
+C:\Users\srvtc\Desktop\aaa\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe.config
+C:\Users\srvtc\Desktop\aaa\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe
+C:\Users\srvtc\Desktop\aaa\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.pdb
+C:\Users\srvtc\Desktop\aaa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.AssemblyReference.cache
+C:\Users\srvtc\Desktop\aaa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.EmployeeForm.resources
+C:\Users\srvtc\Desktop\aaa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.Form1.resources
+C:\Users\srvtc\Desktop\aaa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.HouseholdAddEditForm.resources
+C:\Users\srvtc\Desktop\aaa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.Properties.Resources.resources
+C:\Users\srvtc\Desktop\aaa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.TenantAddEditForm.resources
+C:\Users\srvtc\Desktop\aaa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.tbTenName.resources
+C:\Users\srvtc\Desktop\aaa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.GenerateResource.cache
+C:\Users\srvtc\Desktop\aaa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.CoreCompileInputs.cache
+C:\Users\srvtc\Desktop\aaa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.exe
+C:\Users\srvtc\Desktop\aaa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.pdb
+C:\Users\srvtc\Desktop\student house\aaa\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe.config
+C:\Users\srvtc\Desktop\student house\aaa\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe
+C:\Users\srvtc\Desktop\student house\aaa\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.pdb
+C:\Users\srvtc\Desktop\student house\aaa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.AssemblyReference.cache
+C:\Users\srvtc\Desktop\student house\aaa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.EmployeeForm.resources
+C:\Users\srvtc\Desktop\student house\aaa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.Form1.resources
+C:\Users\srvtc\Desktop\student house\aaa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.HouseholdAddEditForm.resources
+C:\Users\srvtc\Desktop\student house\aaa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.Properties.Resources.resources
+C:\Users\srvtc\Desktop\student house\aaa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.TenantAddEditForm.resources
+C:\Users\srvtc\Desktop\student house\aaa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.tbTenName.resources
+C:\Users\srvtc\Desktop\student house\aaa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.GenerateResource.cache
+C:\Users\srvtc\Desktop\student house\aaa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.CoreCompileInputs.cache
+C:\Users\srvtc\Desktop\student house\aaa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.exe
+C:\Users\srvtc\Desktop\student house\aaa\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.pdb
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main (6)\student-house-manager-group-8-main\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe.config
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main (6)\student-house-manager-group-8-main\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main (6)\student-house-manager-group-8-main\Student house manager\demoFront-End\bin\Debug\demoFront-End.pdb
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main (6)\student-house-manager-group-8-main\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.AssemblyReference.cache
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main (6)\student-house-manager-group-8-main\Student house manager\demoFront-End\obj\Debug\demoFront_End.EmployeeForm.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main (6)\student-house-manager-group-8-main\Student house manager\demoFront-End\obj\Debug\demoFront_End.Form1.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main (6)\student-house-manager-group-8-main\Student house manager\demoFront-End\obj\Debug\demoFront_End.HouseholdAddEditForm.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main (6)\student-house-manager-group-8-main\Student house manager\demoFront-End\obj\Debug\demoFront_End.Properties.Resources.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main (6)\student-house-manager-group-8-main\Student house manager\demoFront-End\obj\Debug\demoFront_End.TenantAddEditForm.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main (6)\student-house-manager-group-8-main\Student house manager\demoFront-End\obj\Debug\demoFront_End.tbTenName.resources
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main (6)\student-house-manager-group-8-main\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.GenerateResource.cache
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main (6)\student-house-manager-group-8-main\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.CoreCompileInputs.cache
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main (6)\student-house-manager-group-8-main\Student house manager\demoFront-End\obj\Debug\demoFront-End.exe
+C:\Users\Edvinas\Desktop\student-house-manager-group-8-main (6)\student-house-manager-group-8-main\Student house manager\demoFront-End\obj\Debug\demoFront-End.pdb
+C:\Users\srvtc\Desktop\final version\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe.config
+C:\Users\srvtc\Desktop\final version\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe
+C:\Users\srvtc\Desktop\final version\student-house-manager-group-8\Student house manager\demoFront-End\bin\Debug\demoFront-End.pdb
+C:\Users\srvtc\Desktop\final version\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.AssemblyReference.cache
+C:\Users\srvtc\Desktop\final version\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.EmployeeForm.resources
+C:\Users\srvtc\Desktop\final version\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.Form1.resources
+C:\Users\srvtc\Desktop\final version\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.HouseholdAddEditForm.resources
+C:\Users\srvtc\Desktop\final version\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.Properties.Resources.resources
+C:\Users\srvtc\Desktop\final version\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.TenantAddEditForm.resources
+C:\Users\srvtc\Desktop\final version\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront_End.tbTenName.resources
+C:\Users\srvtc\Desktop\final version\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.GenerateResource.cache
+C:\Users\srvtc\Desktop\final version\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.CoreCompileInputs.cache
+C:\Users\srvtc\Desktop\final version\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.exe
+C:\Users\srvtc\Desktop\final version\student-house-manager-group-8\Student house manager\demoFront-End\obj\Debug\demoFront-End.pdb
+C:\Users\srvtc\Desktop\gh\Student_House\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe.config
+C:\Users\srvtc\Desktop\gh\Student_House\Student house manager\demoFront-End\bin\Debug\demoFront-End.exe
+C:\Users\srvtc\Desktop\gh\Student_House\Student house manager\demoFront-End\bin\Debug\demoFront-End.pdb
+C:\Users\srvtc\Desktop\gh\Student_House\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.AssemblyReference.cache
+C:\Users\srvtc\Desktop\gh\Student_House\Student house manager\demoFront-End\obj\Debug\demoFront_End.EmployeeForm.resources
+C:\Users\srvtc\Desktop\gh\Student_House\Student house manager\demoFront-End\obj\Debug\demoFront_End.Form1.resources
+C:\Users\srvtc\Desktop\gh\Student_House\Student house manager\demoFront-End\obj\Debug\demoFront_End.HouseholdAddEditForm.resources
+C:\Users\srvtc\Desktop\gh\Student_House\Student house manager\demoFront-End\obj\Debug\demoFront_End.Properties.Resources.resources
+C:\Users\srvtc\Desktop\gh\Student_House\Student house manager\demoFront-End\obj\Debug\demoFront_End.TenantAddEditForm.resources
+C:\Users\srvtc\Desktop\gh\Student_House\Student house manager\demoFront-End\obj\Debug\demoFront_End.tbTenName.resources
+C:\Users\srvtc\Desktop\gh\Student_House\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.GenerateResource.cache
+C:\Users\srvtc\Desktop\gh\Student_House\Student house manager\demoFront-End\obj\Debug\demoFront-End.csproj.CoreCompileInputs.cache
+C:\Users\srvtc\Desktop\gh\Student_House\Student house manager\demoFront-End\obj\Debug\demoFront-End.exe
+C:\Users\srvtc\Desktop\gh\Student_House\Student house manager\demoFront-End\obj\Debug\demoFront-End.pdb
